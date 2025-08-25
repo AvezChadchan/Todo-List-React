@@ -27,4 +27,4 @@ This app helps you add, edit, delete, and manage todos efficiently, with data sa
 
 - React Icons (Icons for edit/delete buttons)
 
--UUID (Unique ID generator for todos)
+- UUID (Unique ID generator for todos)
